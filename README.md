@@ -1,6 +1,5 @@
 # doc-RAG
 
-
 this is RAG for documents. it accepts all `.docx` , `.pdf` , `.txt` you put in sources folder. just put the data you have in sources folder and it will answer your question with data you gave it. you can put multiple PDFs and txts with different topics at the same time and get you answers about those docs but i suggest to not overdo this.
 <br />there are somethings i like to point out:
 * i built and tested this using langchain and BGE-M3 for embedding and gemma3 as LLM.
